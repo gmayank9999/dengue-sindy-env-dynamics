@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_meta
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Figures (regenerated from notebooks)
+# figures/
+
+# Notebook output figures (duplicate)
+notebooks/figures/
+
+# Project docs (not for GitHub)
+blueprint.md
+README.md
+*.docx
